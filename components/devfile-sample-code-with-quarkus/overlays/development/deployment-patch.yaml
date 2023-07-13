@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/utherp0-tenant/devfile-sample-code-with-quarkus/devfile-sample-code-with-quarkus@sha256:f6209d41aee0d848b2d11f503f116ae650535e1db60b18223d770a040a27ee4a
+      - image: quay.io/redhat-user-workloads/utherp0-tenant/devfile-sample-code-with-quarkus/devfile-sample-code-with-quarkus@sha256:06237ef9c0c451f0a62de79f13600bac189152ea91483d00cb0ed9d8349ab486
         name: my-java-quarkus
         resources: {}
 status: {}
